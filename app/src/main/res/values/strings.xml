@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">English helper</string>
+    <string name="Button_one">Не помню</string>
+    <string name="Button_two">Трудно</string>
+    <string name="Button_three">Нормально</string>
+    <string name="Button_four">Легко</string>
+    <string name="show_answer">Показать ответ</string>
+    <string name="addCardButton">Добавить карту</string>
+    <string name="addDeckButton">Добавить колоду</string>
+    <string name="title_activity_cards_in_deck">activity_cards_in_deck</string>
+    <string name="id_decks_collection_json">5dfcfb33bda54254c5f00d3d</string>
+    <string name="id_cards_collection_json">5e21947b5df640720836f459</string>
+    <string name="secret_key">$2b$10$dlORUpyMDGZtpjowofv/TutwzL/75rdXKMFGUD46kDOnUrByxwlg2</string>
+    <string name="content_type">application/json</string>
+
+
+</resources>

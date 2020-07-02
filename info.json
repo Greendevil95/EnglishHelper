@@ -1,0 +1,36 @@
+{
+  "Decks": [
+    {
+      "id": 1,
+      "Decks": "Animals"
+    },
+    {
+      "id": 2,
+      "Decks": "Dogs"
+    },
+    {
+      "id": 3,
+      "decks": "Cats"
+    },
+    {
+      "id": 5,
+      "decks": "Bims"
+    },
+    {
+      "id": 8,
+      "decks": "Pigsg2"
+    }
+  ],
+  "Cards": [
+    {
+      "id:": 1,
+      "Deck": "Animals",
+      "FrontSide": "Dog",
+      "BackSide": "Пес",
+      "DataForRepeat": 2222,
+      "Interval": 1,
+      "Repetition": 1,
+      "EFactor": 1.2
+    }
+  ]
+}
